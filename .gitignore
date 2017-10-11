@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# editors
+/.vscode
+
+# misc
+.env
+/npm-debug-log
+/.nyc_output
